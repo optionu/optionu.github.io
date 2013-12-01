@@ -1,7 +1,18 @@
-body {
-  padding-top: 50px;
+.container {
 }
-.starter-template {
-  padding: 40px 15px;
-  text-align: center;
+
+.row {
+  margin-bottom: 20px;
+}
+
+[class*="col-"] {
+border: 1px solid #ddd;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.center {
+  display: block;
+	float: none;
+	margin: 0 auto;
 }
