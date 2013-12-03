@@ -1,6 +1,10 @@
 .container {
 }
 
+p {
+	padding-top: 10px;
+}
+
 .row {
   margin-bottom: 20px;
 }
